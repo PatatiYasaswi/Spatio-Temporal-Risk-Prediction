@@ -133,19 +133,7 @@ Open the shown URL (e.g., `http://localhost:8501`) in your browser to see live r
 
 ---
 
-## Resume-Ready Summary
-
-Built an end-to-end ML system that predicts safety risk for women in CCTV-blind areas using spatio-temporal context (time, location, purpose, crowdedness, weather, lighting). The system simulates real-time events, scores risk with a Random Forest model, logs predictions, triggers high-risk alerts, and visualizes results on an interactive Streamlit dashboard.
-
-Key highlights:
-- 30,000+ synthetic safety events with rule-based risk labels.
-- Feature engineering with one-hot encoding and numeric features.
-- Real-time simulation loop and modular alert system.
-- Production-like Streamlit dashboard for monitoring and filtering.
-
----
-
-## Future Extensions (Optional)
+## Future Extensions 
 
 - Feature importance visualization (top 10 features driving risk).
 - Model performance metrics in dashboard (accuracy, F1-score).
