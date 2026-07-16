@@ -1,0 +1,2 @@
+hour,is_night,crowdedness,weather_risk,lighting,duration_in_area,area_type_market,area_type_park,area_type_residential,area_type_road_main,area_type_road_small,purpose_leisure,purpose_shopping,purpose_studying,purpose_walking_home,purpose_work
+19,1,0.157306516687736,0.5806210652339052,0.4296473076149947,53.216451287851555,0,0,0,0,0,0,0,0,0,0
